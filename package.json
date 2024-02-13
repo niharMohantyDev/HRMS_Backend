@@ -1,0 +1,19 @@
+{
+  "name": "hrms_server",
+  "version": "1.0.0",
+  "description": "A Human Resource Management system designed for any kind of workspace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohantyDev/Pesto_HRMS_Backend.git"
+  },
+  "author": "Abishek, Nihar, Ninad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohantyDev/Pesto_HRMS_Backend/issues"
+  },
+  "homepage": "https://github.com/mohantyDev/Pesto_HRMS_Backend#readme"
+}
